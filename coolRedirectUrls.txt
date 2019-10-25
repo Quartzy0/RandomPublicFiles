@@ -1,6 +1,2 @@
-https://www.google.com/
-https://www.duckduckgo.com/
-https://stackoverflow.com/
-https://quartzy0.herokuapp.com/
 https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fclipartix.com%2Fwp-content%2Fuploads%2F2019%2F03%2Flaughing-emoji-clipart-2019-23.png&f=1&nofb=1
-https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtZMupxdDa2A%2Fmaxresdefault.jpg&f=1&nofb=1
+https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/1de93f51848667.58fc1e1d52556.png
