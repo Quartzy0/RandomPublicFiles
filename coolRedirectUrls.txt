@@ -1,0 +1,3 @@
+https://www.google.com/
+https://www.duckduckgo.com/
+chrome://history/
